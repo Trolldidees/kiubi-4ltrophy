@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- 
+Configuration du billet "Titres et texte"
+-->
+<!DOCTYPE type SYSTEM "http://www.kiubi-admin.com/DTD/typesbillets.dtd">
+	<type tri="1">
+		<desc>Etape sur la carte</desc>
+		<listechamps>
+			<champ champ="titre" type="text" intitule="Date" />
+			<champ champ="sstitre" type="text" intitule="Etape" />
+			<champ champ="texte1" type="text" intitule="Point centrage carte" />
+			<champ champ="texte2" type="textarea" intitule="Points GPS" />
+		</listechamps>
+	</type>
